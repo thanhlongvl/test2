@@ -7,6 +7,7 @@
 2. Install Node.js - 10.x.x. - [*Node.js*](https://nodejs.org/en/)
 3. Git - 2.x.x
 4. Visual Studio Code
+5. MySQL - You can use [*XAMPP*](https://www.apachefriends.org/index.html) or [*APPSERV*](https://www.appserv.org/en/) to create server database
 
 ----
 ## Steps to Setup
@@ -33,7 +34,7 @@
 * Open terminal in Visual Studio Code and **cd** to **/my_app** 
 * Type **npm install**
 
-### 3. Build and run project
-* Run Spring Boot Server with IntelliJ IDEA or Eclipse
+### 4. Build and run project
+* Run Spring Boot Server with IntelliJ IDEA or Eclipse - [*Spring Boot Server*](https://github.com/thanhlongvl/springbootserversportstore)
 * Go to **server** folder in project then open PowerShell window here and type **node server.js**
 * In Visual Studio Code **cd** to **my_app** folder and type **npm start**

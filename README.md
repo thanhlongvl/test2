@@ -17,13 +17,13 @@
 
   * SSH: *git clone git@github.com:thanhlongvl/sportstore.git*
 
-
+----
 ### 2. Set up database and connect to MySQL
 * Run all query in **query.sql** file with MySQL to create database
 * Open project with Visual Studio Code then go to server/db.js and edit code to connect with MySQL
 
 <img src="https://i.imgur.com/oi8Gxmt.png">
-
+----
 ### 3. Installation environment for build project
 #### a. Server
 * Open terminal in Visual Studio Code and **cd** to **/server** 
@@ -32,7 +32,7 @@
 #### b. Client
 * Open terminal in Visual Studio Code and **cd** to **/my_app** 
 * Type **npm install**
-
+----
 ### 4. Build and run project
 * Run [*Spring Boot Server*](https://github.com/thanhlongvl/springbootserversportstore) with IntelliJ IDEA or Eclipse
 * Go to **server** folder in project then open PowerShell window here and type **node server.js**

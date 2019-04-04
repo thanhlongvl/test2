@@ -23,6 +23,7 @@
 * Open project with Visual Studio Code then go to server/db.js and edit code to connect with MySQL
 
 <img src="https://i.imgur.com/oi8Gxmt.png">
+
 ----
 ### 3. Installation environment for build project
 #### a. Server

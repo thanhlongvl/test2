@@ -28,9 +28,12 @@
 #### a. Server
 * Open terminal in Visual Studio Code and **cd** to **/server** 
 * Type **npm install**
-* Type **npm i node-fetch**
 
 #### b. Client
-* Type *npm i react-router-dom*
-* Type *npm install react-bootstrap bootstrap*
-* Type *npm i node-fetch*
+* Open terminal in Visual Studio Code and **cd** to **/my_app** 
+* Type **npm install**
+
+### 3. Build and run project
+* Run Spring Boot Server with IntelliJ IDEA or Eclipse
+* Go to **server** folder in project then open PowerShell window here and type **node server.js**
+* In Visual Studio Code **cd** to **my_app** folder and type **npm start**

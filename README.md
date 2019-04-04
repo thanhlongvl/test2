@@ -3,8 +3,8 @@
 
 ----
 ## Requirements
-1. Install npm - 6.4.x. [*npm*](https://www.npmjs.com/get-npm)
-2. Install Node.js - 10.x.x. [*Node.js*](https://nodejs.org/en/)
+1. Install npm - 6.4.x. - [*npm*](https://www.npmjs.com/get-npm)
+2. Install Node.js - 10.x.x. - [*Node.js*](https://nodejs.org/en/)
 3. Git - 2.x.x
 4. Visual Studio Code
 

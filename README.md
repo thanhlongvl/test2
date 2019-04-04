@@ -27,12 +27,8 @@
 ### 3. Installation environment for build project
 #### a. Server
 * Open terminal in Visual Studio Code and **cd** to **/server** 
-* Type npm install
-* Type *npm install express --save* to install node_module
-* Type *npm install graphql express-graphql --save * to install graphql and express-graphql dependencies
-* Type *npm install --save sequelize* to install sequelize
-* Type *npm install --save mysql2*
-* Type *npm i node-fetch*
+* Type **npm install**
+* Type **npm i node-fetch**
 
 #### b. Client
 * Type *npm i react-router-dom*

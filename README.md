@@ -13,9 +13,9 @@
 ### 1. Clone the application
 * Create folder for contain project and open Git bash in this folder
 * Type in Git bash command line: 
- * HTTPS: git clone https://github.com/thanhlongvl/sportstore.git
+  * HTTPS: git clone https://github.com/thanhlongvl/sportstore.git
 
- * SSH: git clone git@github.com:thanhlongvl/sportstore.git
+  * SSH: git clone git@github.com:thanhlongvl/sportstore.git
 
 
 ### 2. Set up database and connect to MySQL

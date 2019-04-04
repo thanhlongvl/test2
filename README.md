@@ -10,7 +10,7 @@
 
 ----
 ## Steps to Setup
-###1. Clone the application
+### 1. Clone the application
 * Create folder for contain project and open Git bash in this folder
 * Type in Git bash command line: 
  * HTTPS: git clone https://github.com/thanhlongvl/sportstore.git
